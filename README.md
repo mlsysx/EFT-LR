@@ -57,3 +57,6 @@ location = {Seoul, Republic of Korea},
 series = {CIKM '25}
 }
 ```
+
+## License
+This project is released under the [MIT License](LICENSE).
